@@ -1,4 +1,5 @@
 Link presentación (https://raw.githubusercontent.com/GonzaloAlvarez-hub/Tablas-de-Amortizaci-n-de-Deudas/refs/heads/main/Presentation.qmd)
+
 Ensayo: Tablas de Amortización de Deudas
 
 En el ámbito económico y financiero, la amortización representa la reducción gradual del valor de un activo o pasivo a lo largo del tiempo. Una herramienta esencial para este proceso es la tabla de amortización, que ofrece un panorama detallado sobre el estado de una deuda, mostrando el progreso del pago, los intereses abonados y el saldo pendiente en fechas específicas. Este ensayo analizará su estructura, métodos de amortización, aplicaciones y ventajas, así como algunas desventajas asociadas.
