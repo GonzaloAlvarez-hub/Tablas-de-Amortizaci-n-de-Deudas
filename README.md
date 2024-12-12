@@ -1,5 +1,5 @@
 Link presentación (https://raw.githubusercontent.com/GonzaloAlvarez-hub/Tablas-de-Amortizaci-n-de-Deudas/refs/heads/main/Presentation.html)
-Link ensayo ()
+Link ensayo (https://gonzaloalvarez-hub.github.io/Tablas-de-Amortizaci-n-de-Deudas/ensayo%20document.html)
 
 Ensayo: Tablas de Amortización de Deudas
 
