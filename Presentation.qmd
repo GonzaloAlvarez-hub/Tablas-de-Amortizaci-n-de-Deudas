@@ -1,6 +1,6 @@
 ---
 title: "Tablas de Amortización de Deudas"
-author: "Equipo 1"
+author: "Integrantes:Alexa García, Isabella Campos, Angel Torres, Jesus Adriel, Jorge Ferrerya, Gonzalo Álvarez"
 format: revealjs
 editor: visual
 ---
